@@ -1,4 +1,4 @@
-module github.com/martinxsliu/protoc-gen-graphql
+module github.com/opendoor-labs/protoc-gen-graphql
 
 go 1.15
 
